@@ -40,5 +40,5 @@ Clone the repository and open `cleaning_log.xlsx` to view manual Excel operation
 
 ## 📬 Contact
 
-For questions or collaboration, reach out to [AJAYDASARI - ajaydasarii20@gmail,com ].
+For questions or collaboration, reach out to [AJAYDASARI - ajaydasarii20@gmail.com ].
 
